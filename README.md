@@ -1,5 +1,5 @@
 ### Hi, I'm Cam 👋
-I'm a software writer from NH, USA, and I love building things with Javascript.
+I'm a software writer from NH, USA, and I love building things with Javascript. I have a degree in computer science from the University of New Hampshire, where I got my start in development building low-level automation scripts for IPv6 protocol testing.
 
 #### I'm currently working as a Senior Frontend Engineer @ [Pachyderm](https://www.pachyderm.com/) 🧳
 Yup, we're [hiring](https://jobs.lever.co/pachyderm/)! In the past, I've worked at [PathAI](https://www.pathai.com/) and a couple big insurance companies.
