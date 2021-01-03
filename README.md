@@ -5,7 +5,7 @@ I'm a software writer from NH, USA, and I love building things with Javascript. 
 ... and we're [hiring](https://boards.greenhouse.io/pachyderm)! In the past, I've worked at [PathAI](https://www.pathai.com/) and a couple big insurance companies.
 
 #### I'm currently working on [Pachyderm Hub](https://hub.pachyderm.com) 🚀
-Our techstack is React & Graphql (w/ Apollo).
+Our techstack is Typescript (React & Apollo Client) and Golang (GraphQL and some gRPC).
 
 #### You can read my thoughts on programming on my blog [here](https://bigono.dev/) 👨‍💻
 I post infrequently, but I'm trying to write more often.
